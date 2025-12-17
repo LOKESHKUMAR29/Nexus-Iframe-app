@@ -37,10 +37,22 @@ const SITES = [
     url: 'https://lightcast-heehtwdlx-lightcast.vercel.app/resources/research/the-lightcast-global-ai-skills-outlook?source=thought-leadership' 
   },
   { 
-    id: 'gov-employer', 
-    label: 'Gov Employment', 
+    id: 'semiconductor-workforce', 
+    label: 'Semiconductor Workforce', 
     icon: <Building2 size={20} />, 
-    url: 'https://lightcast-heehtwdlx-lightcast.vercel.app/resources/research/the-government-is-an-employer?source=thought-leadership' 
+    url: 'https://lightcast-heehtwdlx-lightcast.vercel.app/resources/research/rebuilding-our-semiconductor-workforce?source=thought-leadership' 
+  },
+  { 
+    id: 'future-data-teams', 
+    label: 'Future Data Teams', 
+    icon: <Building2 size={20} />, 
+    url: 'https://lightcast-heehtwdlx-lightcast.vercel.app/resources/research/future-data-teams-and-skills?source=thought-leadership' 
+  },
+  { 
+    id: 'UNESCO', 
+    label: 'UNESCO', 
+    icon: <Building2 size={20} />, 
+    url: 'https://lightcast-heehtwdlx-lightcast.vercel.app/resources/research/unesco-weight-of-words?source=thought-leadership' 
   },
   { 
     id: 'nga-progress', 
