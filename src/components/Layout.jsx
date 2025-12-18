@@ -15,7 +15,7 @@ import IframeView from './IframeView';
 import InfoPanel from './InfoPanel';
 import '../App.css';
 
-const PROXY_BASE_URL = 'https://express-highlighter.vercel.app/proxy?url=';
+const PROXY_BASE_URL = 'https://express-highlighter.vercel.app/api/html-proxy?url=';
 
 const SITES = [
   { 
